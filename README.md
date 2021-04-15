@@ -14,11 +14,7 @@ const thai = {
   code: [Javascript, Typescript, HTML, CSS , Java],
   tools: [React, Redux, Node, Angular , GraphQL],
   
-  techCommunities: {
-                        //coorganizer: "AfroPython",
-                        //speaker: "Latinity",
-                        //mentor: "EducaTRANSforma"
-                      },
+  
  challenge: "I am doing the #100DaysOfCode challenge focused on react , typescript and Angular"
 }
 ```
