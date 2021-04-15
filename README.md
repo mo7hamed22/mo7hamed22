@@ -3,8 +3,8 @@
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/mohamed41545968)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](www.linkedin.com/in/mohamed-mahmoud-eissa)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow)](https://twitter.com/mohamed41545968)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white/)](www.linkedin.com/in/mohamed-mahmoud-eissa)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mo7hamed22)
 
 
