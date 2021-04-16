@@ -2,13 +2,17 @@
 <img src =" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACartoon_Meditating_Man.svg&psig=AOvVaw2wC1-tGOso-MS69SECsAEJ&ust=1618589617782000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDe-K_SgPACFQAAAAAdAAAAABAD" width="50">
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+  
+  [![Twitter: MohamedMahmoud](https://img.shields.io/twitter/follow/https://twitter.com/mohamed41545968?style=social)](https://twitter.com/mohamed41545968)
+[![Linkedin: MohamedMahmoud](https://img.shields.io/badge/-MohamedMahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-mahmoud-eissa/)](https://www.linkedin.com/in/mohamed-mahmoud-eissa/)
+  
+
 
 <img src="https://vistapointe.net/images/dark-space-6.jpg" /> 
 
 
 
-[![Twitter: MohamedMahmoud](https://img.shields.io/twitter/follow/MohamedMahmoud?style=social)](https://twitter.com/MohamedMahmoud)
-[![Linkedin: MohamedMahmoud](https://img.shields.io/badge/-MohamedMahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-mahmoud-eissa/)](https://www.linkedin.com/in/mohamed-mahmoud-eissa/)
+
 
 
 
