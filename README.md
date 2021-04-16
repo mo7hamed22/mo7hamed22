@@ -7,6 +7,13 @@
 
 
 
+[![Twitter: MohamedMahmoud](https://img.shields.io/twitter/follow/MohamedMahmoud?style=social)](https://twitter.com/MohamedMahmoud)
+[![Linkedin: MohamedMahmoud](https://img.shields.io/badge/-MohamedMahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-mahmoud-eissa/)](https://www.linkedin.com/in/mohamed-mahmoud-eissa/)
+
+
+
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
