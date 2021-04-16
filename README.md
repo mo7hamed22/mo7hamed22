@@ -3,6 +3,7 @@
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<img src="https://media.giphy.com/media/APq0WQXgQQrKFcBbjP/giphy.gif" /> 
 
 
 
