@@ -3,7 +3,7 @@
 <p><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
   
-  [![Twitter: MohamedMahmoud](https://img.shields.io/twitter/follow/Mohamed=social)](https://twitter.com/mohamed41545968)
+  [![Twitter: MohamedMahmoud](https://img.shields.io/twitter/follow/mohamed41545968=social)](https://twitter.com/mohamed41545968)
 [![Linkedin: MohamedMahmoud](https://img.shields.io/badge/-MohamedMahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-mahmoud-eissa/)](https://www.linkedin.com/in/mohamed-mahmoud-eissa/)
   
 
