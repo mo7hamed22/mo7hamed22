@@ -24,7 +24,6 @@
 
 ```javascript
 const thai = {
-  pronouns: "he" ,
   code: [Javascript, Typescript, HTML, CSS , Java],
   tools: [React, Redux, Node, Angular , GraphQL],
   
